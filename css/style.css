@@ -1,4 +1,15 @@
 body{
-    background-color: #400000
+    background-color: #400000;
+    color:goldenrod;
+}
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    height: 100vh;
+    width: 200px;
+    border-right: 2px solid goldenrod;
+    padding-top:40px
 }
 
