@@ -60,3 +60,14 @@ body{
     border-radius:10px;
     text-align:center;
 }  
+
+.email-link{
+    display:inline-block;
+    margin-top:15px;
+    padding:10px 15px;
+    background-color:#400000;
+    color:goldenrod;
+    text-decoration:none;
+    border-radius:5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
