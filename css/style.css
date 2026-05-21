@@ -130,3 +130,26 @@ body{
     transform:translateY(-8px);
     box-shadow:6px 10px 12px rgba(0,0,0,0.25);
 }
+
+.projects-box{
+    border:3px solid goldenrod;
+    padding:20px;
+    border-radius:15px;
+    margin-top:20px;
+    margin-bottom:30px;
+    box-shadow:4px 6px 8px rgba(0,0,0,0.2);
+    transition:transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+
+.projects-box:hover{
+    transform:translateY(-8px);
+    box-shadow:6px 10px 12px rgba(0,0,0,0.25);
+}
+
+video{
+    display:block;
+    width:70%;
+    height:420px;
+    
+}
