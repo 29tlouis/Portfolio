@@ -168,3 +168,8 @@ video{
     font-weight:bold;
     transition:0.3s;
 }
+
+.game-link:hover{
+    background-color:darkgoldenrod;
+    color:white;
+}
