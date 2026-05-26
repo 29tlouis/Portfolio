@@ -164,6 +164,10 @@ p{
     display:flex;
     gap:20px;
     flex-wrap:wrap;
+    justify-content:center;
+    max-width:700px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .drawings-box:hover{
@@ -182,6 +186,10 @@ p{
     display:flex;
     gap:20px;
     flex-wrap:wrap;
+    justify-content:center;
+    max-width:700px;
+    margin-left:auto;
+    margin-right:auto;
 
 }
 
@@ -213,6 +221,10 @@ video{
     margin:30px auto;
     border:3px solid goldenrod;
     border-radius:15px;
+    justify-content:center;
+    max-width:770px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .game-link{
